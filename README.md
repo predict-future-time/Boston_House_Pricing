@@ -7,7 +7,10 @@ To set up this project, you need the following tools:
 1. [Github Account](https://github.com)  
 2. [Render Account](https://render.com)  
 3. [VSCode IDE](https://code.visualstudio.com/)  
-4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)  
+4. [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+
+## Live Demo  
+Check out the live version of the Boston House Price Prediction App: [Boston House Pricing App](https://boston-house-pricing-1-qbql.onrender.com/)
 
 ## Project Description
 
@@ -20,8 +23,8 @@ This project predicts house prices based on features such as area, number of bed
 
 This end-to-end project demonstrates proficiency in Machine Learning, web application development, containerization, and cloud deployment. It is live and accessible via a public web link.
 
-## Live Demo  
-Check out the live version of the Boston House Price Prediction App: [Boston House Pricing App](https://boston-house-pricing-1-qbql.onrender.com/)
+### Hierarchy Flow:
+- **Data Collection** → **Machine Learning Model** (Learning from data) → **Flask Web App** (Interface for users) → **Docker** (Makes the app portable) → **GitHub Actions** (Automation for testing & deployment) → **Render** (Hosting the app on the cloud).
 
 
 ## Deployment on Render
